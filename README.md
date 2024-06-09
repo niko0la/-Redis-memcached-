@@ -32,7 +32,7 @@
 Установите и запустите memcached.
 
 *Приведите скриншот systemctl status memcached, где будет видно, что memcached запущен.*
-![Image alt](https://github.com/niko0la/-Redis-memcached-/blob/main/2-1.png)
+![Image alt](https://github.com/niko0la/-Redis-memcached-/blob/main/3-1-1.png)
 ---
 
 ### Задание 3. Удаление по TTL в Memcached
